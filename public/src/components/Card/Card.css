@@ -1,0 +1,19 @@
+.card a{
+  text-decoration: none;
+}
+
+.card{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  text-align: center;
+}
+
+.cardImg{
+  height: 100%;
+  width: 75%;
+  object-fit: contain;
+}
